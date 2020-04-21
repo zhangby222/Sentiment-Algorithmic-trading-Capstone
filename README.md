@@ -11,4 +11,5 @@ It will also serve as the capstone project for Data Incubator. I plan to keep wo
 3. Design the user interface to make it possible for business (SELL IT LOL)
 
 **Please note that this project is still under development so PRs are not accepted.**
-**Send an email to bzhang59@jhu.edu if any questions**
+
+**Send the email to bzhang59@jhu.edu if any questions**
