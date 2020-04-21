@@ -1,6 +1,6 @@
 # Algorithmic trading model for GBP/USD market using NLP and XGBOOST
 
-This project is originally designed as my Master's degree thesis with Professor Gordon Bodnar, who provides advices on the simulation trading module. 
+This project is originally designed as my Master's degree thesis at JHU SAIS with Professor Gordon Bodnar, who provides advices on the simulation trading module. 
 
 **This project will be finished in mid-June.**
 
