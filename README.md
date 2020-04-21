@@ -10,4 +10,4 @@ It will also serve as the capstone project for Data Incubator. I plan to keep wo
 2. Try shallow neural nets as the predictive model, as I have read a very interesting paper about how to make neural nets fast and accurate  enough for algo trading.
 3. Design the user interface to make it possible for business (SELL IT LOL)
 
-**Please note that this project is still under development so I don't accept any PRs.**
+**Please note that this project is still under development so PRs are not accepted.**
