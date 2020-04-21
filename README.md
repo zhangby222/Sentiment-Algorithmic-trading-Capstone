@@ -2,7 +2,7 @@
 
 This project is originally designed as my Master's degree thesis with Professor Gordon Bodnar, who offers advices on the simulation trading module. 
 
-**By the beginning of June, this project will be finished.**
+**This project will be finished in mid-June.**
 
 It will also serve as the capstone project for Data Incubator. I plan to keep working on this project in two ways:
 
