@@ -12,4 +12,4 @@ It will also serve as the capstone project for Data Incubator. I plan to keep wo
 
 **Please note that this project is still under development so PRs are not accepted.**
 
-**Send the email to bzhang59@jhu.edu if any questions**
+**Send the email to bzhang59@jhu.edu or bzhang@iif.com if any questions**
